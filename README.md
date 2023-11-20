@@ -88,7 +88,7 @@ Please note that root access is required.
  ```
 **Getting OneShot**
  ```
- git clone --depth 1 https://github.com/drygdryg/OneShot OneShot
+ git clone --depth 1 https://github.com/asifariyan/asif_wifi_tool
  ```
 #### Running
  ```
@@ -129,7 +129,7 @@ Start Pixie Dust attack on a specified BSSID:
  ```
 Show avaliable networks and start Pixie Dust attack on a specified network:
  ```
- sudo python3 oneshot.py -i wlan0 -K
+ sudo python3 asif.py -i wlan0 -K
  ```
 Launch online WPS bruteforce with the specified first half of the PIN:
  ```
